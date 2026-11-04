@@ -1,0 +1,10 @@
+# Visual Studio & Mono build artifacts
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+bin/
+obj/
+*.tmp
+*.bak
